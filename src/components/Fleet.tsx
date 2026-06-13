@@ -1,7 +1,6 @@
 import { Users } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
-import swiftDzireImg from '../assets/car-1-Swift_dzire copy.webp';
 import auraImg from '../assets/car-2-Aura copy.webp';
 import xcentImg from '../assets/car-3-Xcent copy.webp';
 import ertigaImg from '../assets/car-4-Ertiga copy.webp';
@@ -112,7 +111,7 @@ const vehicles: Vehicle[] = [
     typeLabel: 'Sedan',
     capacity: '4 Passengers',
     description: 'Comfortable sedan for city and outstation travel.',
-    image: swiftDzireImg,
+    image: 'https://images.overdrive.in/wp-content/uploads/2016/12/0_468_700_http-cdni.autocarindia.com-ExtraImages-20161227093034_swift1.jpg',
   },
   {
     name: 'Hyundai Aura',

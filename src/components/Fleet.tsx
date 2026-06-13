@@ -1,13 +1,6 @@
 import { Users } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
-import auraImg from '../assets/car-2-Aura copy.webp';
-import xcentImg from '../assets/car-3-Xcent copy.webp';
-import ertigaImg from '../assets/car-4-Ertiga copy.webp';
-import innovaImg from '../assets/car-5-Innova copy.webp';
-import innovaCrystaImg from '../assets/car-6-innova-crysta.webp';
-import etiosImg from '../assets/car-7-Etios.webp';
-import taveraImg from '../assets/car-8-Tavera.webp';
 
 /* ─── Vehicle silhouette icons (used when no photo is available) ──────────── */
 
@@ -119,7 +112,7 @@ const vehicles: Vehicle[] = [
     typeLabel: 'Sedan',
     capacity: '4 Passengers',
     description: 'Modern sedan with smooth ride quality.',
-    image: auraImg,
+    image: 'https://imgd.aeplcdn.com/664x374/n/cw/ec/139133/aura-exterior-right-front-three-quarter-9.png',
   },
   {
     name: 'Hyundai Xcent',
@@ -127,7 +120,7 @@ const vehicles: Vehicle[] = [
     typeLabel: 'Sedan',
     capacity: '4 Passengers',
     description: 'Affordable and comfortable travel option.',
-    image: xcentImg,
+    image: 'https://imgd-ct.aeplcdn.com/664x415/n/2fhd7sa_1471629.jpg',
   },
   {
     name: 'Maruti Ertiga',
@@ -135,7 +128,7 @@ const vehicles: Vehicle[] = [
     typeLabel: 'MPV',
     capacity: '6-7 Passengers',
     description: 'Perfect for family trips and small groups.',
-    image: ertigaImg,
+    image: 'https://stimg.cardekho.com/images/carexteriorimages/930x620/Maruti/Ertiga-Tour/9617/1762858404297/front-left-side-47.jpg',
   },
   {
     name: 'Toyota Etios',
@@ -143,7 +136,7 @@ const vehicles: Vehicle[] = [
     typeLabel: 'Sedan',
     capacity: '4 Passengers',
     description: 'Reliable sedan for local and outstation journeys.',
-    image: etiosImg,
+    image: 'https://imgd.aeplcdn.com/664x374/cw/ec/24731/Toyota-Platinum-Etios-Exterior-119077.jpg',
   },
   {
     name: 'Toyota Innova',
@@ -151,7 +144,7 @@ const vehicles: Vehicle[] = [
     typeLabel: 'MUV',
     capacity: '6-7 Passengers',
     description: 'Spacious and comfortable premium travel.',
-    image: innovaImg,
+    image: 'https://stimg.cardekho.com/images/carexteriorimages/630x420/Toyota/Innova-Hycross/12719/1776918655192/front-left-side-47.jpg',
   },
   {
     name: 'Toyota Innova Crysta',
@@ -159,7 +152,7 @@ const vehicles: Vehicle[] = [
     typeLabel: 'Premium SUV',
     capacity: '6-7 Passengers',
     description: 'Luxury SUV with captain seats and premium interiors.',
-    image: innovaCrystaImg,
+    image: 'https://imgd.aeplcdn.com/664x374/n/cw/ec/222736/innova-crysta-2026-exterior-right-front-three-quarter-8.jpeg',
   },
   {
     name: 'Chevrolet Tavera',
@@ -167,7 +160,7 @@ const vehicles: Vehicle[] = [
     typeLabel: 'MUV',
     capacity: '9 Passengers',
     description: 'Spacious vehicle suitable for larger groups.',
-    image: taveraImg,
+    image: 'https://stimg.cardekho.com/images/car-images/large/Chevrolet/Chevrolet-Tavera/Sandrift-Grey.jpg',
   },
 ];
 

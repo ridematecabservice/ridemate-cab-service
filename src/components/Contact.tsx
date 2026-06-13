@@ -92,7 +92,7 @@ Message: ${formData.message}`;
               </div>
               <div className="mt-4 rounded-lg overflow-hidden h-48">
                 <iframe
-                  src="https://maps.google.com/maps?q=Narholi+Chowk,+Mathura,+Uttar+Pradesh,+India&output=embed&z=15"
+                  src="https://maps.app.goo.gl/cDhgvvxFqxv8Svdc7"
                   width="100%"
                   height="100%"
                   style={{ border: 0 }}

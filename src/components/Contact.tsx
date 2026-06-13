@@ -92,9 +92,8 @@ Message: ${formData.message}`;
               </div>
               <div className="mt-4 rounded-lg overflow-hidden h-48">
                 <iframe
-                src="https://www.google.com/maps/embed?pb=!1m12!1m8!1m3!1d28322.150534727283!2d77.65675614204785!3d27.460889290048495!3m2!1i1024!2i768!4f13.1!2m1!1sSri%20shakuntla%20dham%20apartment%20near%20chirayu%20hospital%20narholi%20chowk%20Mathura!5e0!3m2!1sen!2sin!4v1781372568650!5m2!1sen!2sin"
-                width="600"
-                height="450"
+                src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d5953.992527900578!2d77.67355655463237!3d27.460997007419923!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sSri%20shakuntla%20dham%20apartment%20near%20chirayu%20hospital%20narholi%20chowk%20Mathura!5e0!3m2!1sen!2sin!4v1781373041478!5m2!1sen!2sin"
+                className="w-full h-[450px] rounded-xl"
                 style={{ border: 0 }}
                 allowFullScreen
                 loading="lazy"

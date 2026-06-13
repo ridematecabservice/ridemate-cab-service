@@ -92,13 +92,13 @@ Message: ${formData.message}`;
               </div>
               <div className="mt-4 rounded-lg overflow-hidden h-48">
                 <iframe
-                src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d5953.992527900578!2d77.67355655463237!3d27.460997007419923!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sSri%20shakuntla%20dham%20apartment%20near%20chirayu%20hospital%20narholi%20chowk%20Mathura!5e0!3m2!1sen!2sin!4v1781373041478!5m2!1sen!2sin"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7080.4737742335!2d77.66459185505245!3d27.4618836!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x397376b42011c201%3A0x9509bd82669e3d3d!2sShree%20Jee%20Shakuntla%20Dham!5e0!3m2!1sen!2sin!4v1781373200638!5m2!1sen!2sin"
                 className="w-full h-[450px] rounded-xl"
                 style={{ border: 0 }}
                 allowFullScreen
                 loading="lazy"
                 referrerPolicy="no-referrer-when-downgrade"
-                title="RideMate Cab Service Mathura Location"
+                title="Shree Jee Shakuntla Dham Location"
               />
               </div>
             </div>

@@ -104,7 +104,7 @@ const vehicles: Vehicle[] = [
     typeLabel: 'Sedan',
     capacity: '4 Passengers',
     description: 'Comfortable sedan for city and outstation travel.',
-    image: 'https://images.overdrive.in/wp-content/uploads/2016/12/0_468_700_http-cdni.autocarindia.com-ExtraImages-20161227093034_swift1.jpg',
+    image: 'https://images.overdrive.in/wp-content/uploads/2016/12/0_468_700_http-cdni.autocarindia.com-ExtraImages-20161227093034_swift1.https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Dzire/12186/1771935643542/front-left-side-47.jpg',
   },
   {
     name: 'Hyundai Aura',
